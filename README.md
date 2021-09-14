@@ -1,5 +1,5 @@
 
-
+Some projects built with AWS services
 Newsbreak Clone
 ```
 A news app that can recommend summarized news to users based on their view history 
