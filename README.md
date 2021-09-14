@@ -1,5 +1,6 @@
 
-Some projects built with AWS services
+Awesome cloud computing with big data projects' architecture
+
 Newsbreak Clone
 ```
 A news app that can recommend summarized news to users based on their view history 
